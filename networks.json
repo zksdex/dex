@@ -311,18 +311,18 @@
       "symbol": "WMATIC"
     }
   },
-  "43113": {
+  "324": {
     "name": "Avalanche testnet",
-    "rpc": "https://endpoints.omniatech.io/v1/avax/fuji/public",
-    "chainId": 43113,
-    "explorer": "https://testnet.snowtrace.io/",
+    "rpc": "https://zksync2-mainnet.zksync.io",
+    "chainId": 324,
+    "explorer": "https://explorer.zksync.io/",
     "color": "#D64F4A",
     "storage": "0xb66e94f5B2a475D98EEc9012A95114AF6fB1fa02",
     "multicall": "0xEF65BF9e225A4B606aa5C46f944De35f566e58e4",
     "baseCurrency": {
       "decimals": 18,
-      "name": "AVAX",
-      "symbol": "AVAX"
+      "name": "ETH",
+      "symbol": "ETH"
     },
     "wrappedToken": {
       "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
